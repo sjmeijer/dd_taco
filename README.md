@@ -1,7 +1,10 @@
-#Goals
-There are claims within the literature that the double-decker taco and it's supreme variant are in fact remarkably similar. This script is designed to isolate and recognize the primary differences between the double-decker taco and its supreme variant.
+#Double Decker Taco 
 
-#List of Files
+
+##Goals
+There are claims within the literature that the Taco Bell double-decker taco and it's supreme variant are in fact remarkably similar. This script is designed to isolate and recognize the primary differences between the double-decker taco and the double-decker taco supreme.
+
+##List of Files
 tacoBell.nb: The mathematica source script
 
 dd.png: A double decker taco image
